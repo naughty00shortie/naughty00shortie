@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/naughty00shortie">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=naughty00shortie&theme=radical&langs_count=10" height="150"/>
+</a>
+
+<a href="https://github.com/naughty00shortie">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=naughty00shortie&show_icons=true&theme=radical" height="150"/>
+</a>
+
