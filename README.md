@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://github.com/naughty00shortie">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=naughty00shortie&theme=hacker&hide_border=true&date_format=n%2Fj%5B%2FY%5D" height="150"/>
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=naughty00shortie&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" height="150"/>
 </a>
