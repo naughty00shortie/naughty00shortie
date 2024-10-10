@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="http://github-readme-streak-stats.herokuapp.com?user=naughty00shortie&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D" height="150"/>
 </a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=naughty00shortie&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=naughty00shortie&color=ff69b4)
 
 
 
